@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
  */
 public class SimpleDotComGame {
     public static void main(String[] args) throws Exception {
+        private int a = 0;
 
         SimpleDotCom simpleDotCom = new SimpleDotCom();
 
